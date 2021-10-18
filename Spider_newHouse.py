@@ -214,3 +214,4 @@ def craw_data():
 
 if __name__ == '__main__':
     craw_data()
+    print('Crawl done')
